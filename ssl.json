@@ -5,6 +5,10 @@
             {
                 "path": "config/",
                 "name": "dependencias.json"
+            },
+            {
+                "path": "AQNEXT/",
+                "name": "settings.py"
             }
         ],
         "addFile": [],
